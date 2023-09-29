@@ -105,4 +105,4 @@ Task List
 
 - [x] Task1
 - [x] Task2
-- [] Task3
+- [O] Task3
