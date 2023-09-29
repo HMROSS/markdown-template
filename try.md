@@ -96,3 +96,13 @@ https://www.mross.com
 
 eg: Ross website  
  [Ross website](https://www.mross.com)
+
+ <br/>
+
+### Constructing a Checkered task list
+
+Task List
+
+- [x] Task1
+- [x] Task2
+- [] Task3
